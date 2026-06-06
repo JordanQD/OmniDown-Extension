@@ -23,6 +23,7 @@
     "postinstall": "wxt prepare"
   },
   "dependencies": {
+    "@fluentui/web-components": "3.0.0-beta.133",
     "@material/material-color-utilities": "^0.4.0",
     "@vicons/ionicons5": "^0.13.0",
     "content-disposition": "^1.1.0",
